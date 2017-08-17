@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="state_array">
+     <item>Rajasthan</item>
+    <item>Haryana</item>
+    <item>Bihar</item>
+    <item>Keral</item>
+    <item>Uttarpradesh</item>
+    </string-array>
+    <string-array name="bham_array">
+        <item>  </item>
+        <item>1428-WKMY-25373</item>
+            </string-array>
+</resources>

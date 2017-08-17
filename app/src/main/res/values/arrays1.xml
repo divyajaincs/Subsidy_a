@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="district_array">
+        <item>Jaipur</item>
+        <item>Udaipur</item>
+        <item>Ajmer</item>
+        <item>Kota</item>
+        <item>Jhunjhunu</item>
+    </string-array>
+<string-array name="Pincode_array">
+    <item>302001</item>
+    <item>302002</item>
+    <item>302003</item>
+    <item>302004</item>
+    <item>302005</item>
+</string-array>
+</resources>

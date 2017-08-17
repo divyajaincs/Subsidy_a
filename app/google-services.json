@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "134674477950",
+    "firebase_url": "https://subsidy-cd041.firebaseio.com",
+    "project_id": "subsidy-cd041",
+    "storage_bucket": "subsidy-cd041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134674477950:android:bd68af68f6639922",
+        "android_client_info": {
+          "package_name": "com.somya.acer.subsidy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134674477950-0efnaqq9k8fhfsjus2i3re4h10d7aqa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.somya.acer.subsidy",
+            "certificate_hash": "1201bd74468abd550833001053f43c9bbbb1e4a0"
+          }
+        },
+        {
+          "client_id": "134674477950-s8r0dmjj9g5e6bk2vec56fpngq1rapie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfKY4cp2UzxglE3PcHfGMCZI1sql2w80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134674477950-s8r0dmjj9g5e6bk2vec56fpngq1rapie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
